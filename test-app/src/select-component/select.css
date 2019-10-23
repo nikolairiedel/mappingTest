@@ -1,0 +1,9 @@
+.selectClassNyss {
+    width: 300px;
+    text-align: center;
+}
+
+.wrapperInputs {
+    display: flex;
+    align-items:  center;
+}
